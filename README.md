@@ -13,6 +13,8 @@ https://docs.google.com/spreadsheets/d/1AhKo6rjQHXLuZEHPozA-F-YPejLPBrj0jbPNUyND
 
 https://prodkeys.net/io/
 
+https://github.com/HerXayah/road-to-yuzu-without-switch?tab=readme-ov-file
+
 ## ROMS
 https://r-roms.github.io/
 
