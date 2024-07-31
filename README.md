@@ -21,6 +21,11 @@ https://r-roms.github.io/
 https://switchrom.net/
 
 https://nxbrew.com/
+
+### Smash Bros Shaders issue
+https://www.reddit.com/r/Ryujinx/comments/11ppwo1/question_shader_cache_for_super_smash_bros/
+
+
 ## Notable Apps
 - Decky
 - EmuDeck
