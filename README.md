@@ -15,6 +15,8 @@ https://prodkeys.net/io/
 
 https://github.com/HerXayah/road-to-yuzu-without-switch?tab=readme-ov-file
 
+https://www.reddit.com/r/Ryujinx/comments/1246bdo/syncing_save_files_across_computers/
+
 ## ROMS
 https://r-roms.github.io/
 
